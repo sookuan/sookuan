@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SooKuan
 - 👀 I’m interested in Data science project
-- 🌱 I’m currently working in E-commerce company specialize in logistic experience
+- 🌱 I’m working Business Intelligence Project in Pharma company
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me sookuan87@gmail.com
 
